@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02892032-44bc-4783-9327-6233bb0430cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="StyleTransferDemo" />
+  </component>
+  <component name="ProjectId" id="1Z1ux4p2pkO4XAhFXvBLTIl7gBP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="stDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StyleTransferDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Workbench\Anaconda3\envs\deeplearning\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.stDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02892032-44bc-4783-9327-6233bb0430cc" name="Default Changelist" comment="" />
+      <created>1584019165194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584019165194</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3894" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584019886787">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state x="3894" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584019886787" />
+    <state x="2162" y="68" key="FileChooserDialogImpl" timestamp="1584177896091">
+      <screen x="1920" y="0" width="1024" height="738" />
+    </state>
+    <state x="2162" y="68" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1024.738@1920.0.1024.738" timestamp="1584177896091" />
+    <state width="863" height="870" key="GridCell.Tab.0.bottom" timestamp="1584023525626">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state width="863" height="870" key="GridCell.Tab.0.bottom/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584023525626" />
+    <state width="863" height="870" key="GridCell.Tab.0.center" timestamp="1584023525626">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state width="863" height="870" key="GridCell.Tab.0.center/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584023525626" />
+    <state width="863" height="870" key="GridCell.Tab.0.left" timestamp="1584023525626">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state width="863" height="870" key="GridCell.Tab.0.left/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584023525626" />
+    <state width="863" height="870" key="GridCell.Tab.0.right" timestamp="1584023525626">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state width="863" height="870" key="GridCell.Tab.0.right/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584023525626" />
+    <state width="804" height="870" key="GridCell.Tab.1.bottom" timestamp="1584023525610">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state width="804" height="870" key="GridCell.Tab.1.bottom/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584023525610" />
+    <state width="804" height="870" key="GridCell.Tab.1.center" timestamp="1584023525610">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state width="804" height="870" key="GridCell.Tab.1.center/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584023525610" />
+    <state width="804" height="870" key="GridCell.Tab.1.left" timestamp="1584023525610">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state width="804" height="870" key="GridCell.Tab.1.left/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584023525610" />
+    <state width="804" height="870" key="GridCell.Tab.1.right" timestamp="1584023525610">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state width="804" height="870" key="GridCell.Tab.1.right/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584023525610" />
+    <state x="3862" y="94" key="SettingsEditor" timestamp="1584019629371">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state x="3862" y="94" key="SettingsEditor/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584019629371" />
+    <state x="3896" y="212" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584019568603">
+      <screen x="3600" y="26" width="1680" height="1020" />
+    </state>
+    <state x="3896" y="212" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834/3600.26.1680.1020/1920.26.1680.1020@3600.26.1680.1020" timestamp="1584019568603" />
+  </component>
+</project>
